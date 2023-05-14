@@ -60,6 +60,9 @@
 Воспроизведите практическую часть лекции самостоятельно.
 
 - Создайте виртуальную машину.
+![image](https://github.com/Randomize47/virtd-homeworks/assets/120917553/5bef5fd7-540b-437d-8bd9-56f1871d95da)
+![image](https://github.com/Randomize47/virtd-homeworks/assets/120917553/a4aa3e0c-6bbe-44b5-9859-f2157d7f995e)
+
 - Зайдите внутрь ВМ, убедитесь, что Docker установлен с помощью команды
 ```
 docker ps,
