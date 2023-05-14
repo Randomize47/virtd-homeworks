@@ -46,8 +46,11 @@
 Установите на личный компьютер:
 
 - [VirtualBox](https://www.virtualbox.org/),
+![image](https://github.com/Randomize47/virtd-homeworks/assets/120917553/59765c9b-d673-4af3-a7d6-578c38d843b6)
 - [Vagrant](https://github.com/netology-code/devops-materials),
+![image](https://github.com/Randomize47/virtd-homeworks/assets/120917553/b1be5774-56db-4306-a915-cd95c60cc5b9)
 - [Terraform](https://github.com/netology-code/devops-materials/blob/master/README.md),
+
 - Ansible.
 
 *Приложите вывод команд установленных версий каждой из программ, оформленный в Markdown.*
