@@ -50,8 +50,9 @@
 - [Vagrant](https://github.com/netology-code/devops-materials),
 ![image](https://github.com/Randomize47/virtd-homeworks/assets/120917553/b1be5774-56db-4306-a915-cd95c60cc5b9)
 - [Terraform](https://github.com/netology-code/devops-materials/blob/master/README.md),
-
+![image](https://github.com/Randomize47/virtd-homeworks/assets/120917553/8fd25844-eda0-4fbb-afc9-9a8383f518c6)
 - Ansible.
+![image](https://github.com/Randomize47/virtd-homeworks/assets/120917553/dfe52b2f-5b46-4f2f-8e7e-9cc207cdd6e0)
 
 *Приложите вывод команд установленных версий каждой из программ, оформленный в Markdown.*
 
