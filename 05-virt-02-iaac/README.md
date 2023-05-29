@@ -68,6 +68,8 @@
 ```
 docker ps,
 ```
+![image](https://github.com/Randomize47/virtd-homeworks/assets/120917553/90700d2f-ac18-4ae7-a2c9-1c2f9501abf3)
+
 Vagrantfile из лекции и код ansible находятся в [папке](https://github.com/netology-code/virt-homeworks/tree/virt-11/05-virt-02-iaac/src).
 
 Примечание. Если Vagrant выдаёт ошибку:
