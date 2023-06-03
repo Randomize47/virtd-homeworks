@@ -90,6 +90,11 @@ Docker контейнеры являются предпочтительным в
 - Добавьте ещё один файл в папку ```/data``` на хостовой машине.
 - Подключитесь во второй контейнер и отобразите листинг и содержание файлов в ```/data``` контейнера.
 
+![image](https://github.com/Randomize47/virtd-homeworks/assets/120917553/016c81ee-d3df-4782-bdb4-7ca27b17c473)
+![image](https://github.com/Randomize47/virtd-homeworks/assets/120917553/f924d87e-f89e-4880-a0ce-4333c5f8998c)
+![image](https://github.com/Randomize47/virtd-homeworks/assets/120917553/2a973f67-78ec-45c9-bf52-74a626e5aaea)
+
+
 ## Задача 4 (*)
 
 Воспроизведите практическую часть лекции самостоятельно.
